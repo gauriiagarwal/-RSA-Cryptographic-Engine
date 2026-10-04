@@ -243,17 +243,11 @@ This is an **educational, simulation-based** design:
 6. Cornell ECE 5760, "Prime Number Generator and RSA Encrypter/Decrypter," Final Project Report, 2011.
 7. Xilinx Inc., *ISE Design Suite 14: Release Notes, Installation, and Licensing Guide*, 2012.
 
-## 👥 Team
-
-**Group No. 7**: B.Tech, Electronics Engineering (VLSI Design and Technology), VI Semester, 2023–27
 
 - Gauri Agarwal
-- Kritika Singh
-- Raman
-- Shivani Yadav
-- Srashti Tyagi
 
-**Under the guidance of:** Dr. Shalini Jharia, Assistant Professor, Department of Physical Sciences, Banasthali Vidyapith, Rajasthan
+
+
 
 ---
 
