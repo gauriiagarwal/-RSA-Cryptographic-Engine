@@ -1,0 +1,36 @@
+# Simulation outputs
+*.vcd
+*.vvp
+*.out
+rsa_sim
+
+# Xilinx ISE generated files
+*.ise
+*.xise
+*.ngc
+*.ngd
+*.ncd
+*.bit
+*.xst
+*.prj
+*.lso
+*.wdb
+*.cmd_log
+*.log
+*.xrpt
+isim/
+iseconfig/
+xst/
+_xmsgs/
+xlnx_auto_0_xdb/
+fuse.xmsgs
+fuse.log
+isim.log
+isim.wdb
+isimcmd.tcl
+isim.cmd
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
